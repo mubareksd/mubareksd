@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Status](https://github-readme-stats.vercel.app/api?username=mubareksd&show_icons=true&hide_border=true&theme=radical)](https://github.com/mubareksd)
+<!-- [![Status](https://github-readme-stats.vercel.app/api?username=mubareksd&show_icons=true&hide_border=true&theme=radical)](https://github.com/mubareksd)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubareksd&layout=compact&theme=radical)](https://github.com/mubareksd)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mubareksd&layout=compact&theme=radical)](https://github.com/mubareksd) -->
