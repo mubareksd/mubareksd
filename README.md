@@ -1,6 +1,6 @@
 # MubarekSD
 
-<a name="mubareksd metrics"><img src="https://github.com/MubarekSD/MubarekSD/blob/master/github-metrics.svg" alt="my metrics created with lowlighter/metrics"></a>
+![lowlighter metrics](./github-metrics.svg)
 
 ### License
 
