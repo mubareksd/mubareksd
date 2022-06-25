@@ -70,7 +70,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: MubarekSD/dotfiles, MubarekSD/MubarekSD, MubarekSD/mubareksd.github.io
           plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.GH_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
