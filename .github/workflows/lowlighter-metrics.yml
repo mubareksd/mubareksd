@@ -17,6 +17,7 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -54,22 +55,26 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_details: percentage, lines
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_notable_indepth: yes
           plugin_notable_types: commit
           plugin_repositories: yes
+          plugin_repositories_featured: https://github.com/MubarekSD/alx-low_level_programming, https://github.com/MubarekSD/alx-system_engineering-devops
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+          plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
