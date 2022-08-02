@@ -1,0 +1,6 @@
+#+html: <a name="MubarekSD metrics"><img src="./github-metrics.svg" alt="my metrics created with lowlighter/metrics"></a>
+
+
+* License
+
+#+html: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
