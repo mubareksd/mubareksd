@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.62763986661727" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="254.62763986661727" y="0" width="192.37680622452763" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.0044460911449" y="0" width="12.99555390885513" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.76923076923077" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="254.76923076923077" y="0" width="200.967562557924" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="455.73679332715477" y="0" width="4.263206672845227" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -395,7 +395,7 @@
                             <small>
                                 <div>325 lines</div>
                                 <div>5.98 kB</div>
-                                <div>55.35%</div>
+                                <div>55.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -406,9 +406,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>186 lines</div>
-                                <div>4.51 kB</div>
-                                <div>41.82%</div>
+                                <div>191 lines</div>
+                                <div>4.71 kB</div>
+                                <div>43.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -419,9 +419,9 @@
                                 Shell
                             </div>
                             <small>
-                                <div>17 lines</div>
-                                <div>305 bytes</div>
-                                <div>2.83%</div>
+                                <div>6 lines</div>
+                                <div>100 bytes</div>
+                                <div>0.93%</div>
                             </small>
                         </div>
                     </section>
@@ -757,17 +757,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 3.5811504206024014%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 4.860364161320822%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 2.705638244481232%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 3.673739109217897%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.18277290466595258%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.2480607545520165%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3573,7 +3573,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Aug 2022, 18:12:44 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 19:15:38 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
