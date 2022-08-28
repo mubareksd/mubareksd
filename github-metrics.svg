@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.55937605640605" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="251.55937605640605" y="0" width="201.6651373931521" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.2245134495581" y="0" width="6.7754865504418795" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.83080929873634" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="251.83080929873634" y="0" width="201.40252724992766" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.233336548664" y="0" width="6.76666345133597" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,9 +393,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>486 lines</div>
+                                <div>488 lines</div>
                                 <div>11.3 kB</div>
-                                <div>54.69%</div>
+                                <div>54.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -408,7 +408,7 @@
                             <small>
                                 <div>482 lines</div>
                                 <div>9.08 kB</div>
-                                <div>43.84%</div>
+                                <div>43.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -757,17 +757,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 12.852250897853503%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 9.79220359087723%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 10.109412845569196%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <div class="bar" style="width: 7.83134738771769%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.1113616748795902%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.26311532862457543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3573,7 +3573,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Aug 2022, 19:15:52 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 20:13:39 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
