@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.83080929873634" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="251.83080929873634" y="0" width="201.40252724992766" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.233336548664" y="0" width="6.76666345133597" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.86092491681538" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="251.86092491681538" y="0" width="201.37339055793993" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.23431547475525" y="0" width="6.7656845252447315" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,7 +393,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>488 lines</div>
+                                <div>485 lines</div>
                                 <div>11.3 kB</div>
                                 <div>54.75%</div>
                             </small>
@@ -757,17 +757,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 9.790725506474464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.792239436771572%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 7.8301652848009144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.829996442086877%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.2630756126750693%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.2630699399467391%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3563,7 +3563,7 @@ Create CODE_OF_CONDUCT.md</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Aug 2022, 20:19:40 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 21:14:52 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
