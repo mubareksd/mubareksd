@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.85088734567904" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="251.85088734567904" y="0" width="201.38310185185185" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.2339891975309" y="0" width="6.766010802469135" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.83080929873634" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="251.83080929873634" y="0" width="201.40252724992766" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.233336548664" y="0" width="6.76666345133597" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,7 +393,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>486 lines</div>
+                                <div>488 lines</div>
                                 <div>11.3 kB</div>
                                 <div>54.75%</div>
                             </small>
@@ -3568,7 +3568,7 @@ Create CODE_OF_CONDUCT.md</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 01:12:51 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 02:13:00 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
