@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.3535367125223" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="299.3535367125223" y="0" width="155.92748309844944" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.2810198109717" y="0" width="4.7189801890282865" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="299.7846432524907" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="299.7846432524907" y="0" width="155.5090402871423" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.293683539633" y="0" width="4.7063164603669785" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,9 +393,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>750 lines</div>
-                                <div>19.3 kB</div>
-                                <div>65.08%</div>
+                                <div>753 lines</div>
+                                <div>19.4 kB</div>
+                                <div>65.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -408,7 +408,7 @@
                             <small>
                                 <div>525 lines</div>
                                 <div>10 kB</div>
-                                <div>33.9%</div>
+                                <div>33.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -421,7 +421,7 @@
                             <small>
                                 <div>17 lines</div>
                                 <div>305 bytes</div>
-                                <div>1.03%</div>
+                                <div>1.02%</div>
                             </small>
                         </div>
                     </section>
@@ -3578,7 +3578,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Sept 2022, 01:12:31 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 02:12:35 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
