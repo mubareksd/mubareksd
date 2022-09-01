@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.32831423895254" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="291.32831423895254" y="0" width="164.07921440261865" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.4075286415712" y="0" width="4.5924713584288055" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.68642822146006" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="291.68642822146006" y="0" width="163.73085089008654" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.41727911154663" y="0" width="4.582720888453372" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,9 +393,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>750 lines</div>
-                                <div>19.3 kB</div>
-                                <div>63.33%</div>
+                                <div>752 lines</div>
+                                <div>19.4 kB</div>
+                                <div>63.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -408,7 +408,7 @@
                             <small>
                                 <div>577 lines</div>
                                 <div>10.9 kB</div>
-                                <div>35.67%</div>
+                                <div>35.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3583,7 +3583,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Sept 2022, 16:32:53 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 17:11:30 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
