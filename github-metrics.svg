@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.3789632611978" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="261.3789632611978" y="0" width="195.55108203321592" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.93004529441373" y="0" width="3.0699547055863112" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.83731176431905" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="261.83731176431905" y="0" width="195.08735012384648" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.92466188816553" y="0" width="3.075338111834462" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -395,7 +395,7 @@
                             <small>
                                 <div>1.28k lines</div>
                                 <div>25.9 kB</div>
-                                <div>56.82%</div>
+                                <div>56.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -406,9 +406,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>753 lines</div>
-                                <div>19.4 kB</div>
-                                <div>42.51%</div>
+                                <div>750 lines</div>
+                                <div>19.3 kB</div>
+                                <div>42.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -757,17 +757,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 15.466464163670068%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 15.475681433860501%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 11.571259464409353%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 11.530479219898837%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.18165709988907003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.1817653588003486%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3568,7 +3568,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Sept 2022, 19:15:47 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 4 Sept 2022, 20:14:31 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
