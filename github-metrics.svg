@@ -379,9 +379,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.83731176431905" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="261.83731176431905" y="0" width="195.08735012384648" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.92466188816553" y="0" width="3.075338111834462" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.9923674167654" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="261.9923674167654" y="0" width="194.9304733078914" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.92284072465674" y="0" width="3.077159275343247" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -395,7 +395,7 @@
                             <small>
                                 <div>1.28k lines</div>
                                 <div>25.9 kB</div>
-                                <div>56.92%</div>
+                                <div>56.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -406,9 +406,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>750 lines</div>
+                                <div>748 lines</div>
                                 <div>19.3 kB</div>
-                                <div>42.41%</div>
+                                <div>42.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3568,7 +3568,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Sept 2022, 01:15:47 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 02:12:15 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
