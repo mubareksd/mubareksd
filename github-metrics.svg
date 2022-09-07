@@ -379,10 +379,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.6113995126602" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="266.6113995126602" y="0" width="185.93230215065154" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.54370166331177" y="0" width="5.1048839919483" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="457.64858565526004" y="0" width="2.351414344739909" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.60433826840057" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="266.60433826840057" y="0" width="185.92737770479647" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.531715973197" y="0" width="5.104748788304155" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.63646476150114" y="0" width="2.3635352384988213" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -433,8 +433,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>7 lines</div>
-                                <div>193 bytes</div>
+                                <div>6 lines</div>
+                                <div>194 bytes</div>
                                 <div>0.51%</div>
                             </small>
                         </div>
@@ -3593,7 +3593,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2022, 13:18:14 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 14:11:16 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
