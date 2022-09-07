@@ -379,10 +379,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.6113995126602" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="266.6113995126602" y="0" width="185.93230215065154" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.54370166331177" y="0" width="5.1048839919483" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="457.64858565526004" y="0" width="2.351414344739909" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.0476794587165" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="266.0476794587165" y="0" width="186.51178771540333" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.55946717411985" y="0" width="5.094090284385241" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.6535574585051" y="0" width="2.3464425414948726" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -396,7 +396,7 @@
                             <small>
                                 <div>1.05k lines</div>
                                 <div>21.8 kB</div>
-                                <div>57.96%</div>
+                                <div>57.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -407,9 +407,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>579 lines</div>
-                                <div>15.2 kB</div>
-                                <div>40.42%</div>
+                                <div>582 lines</div>
+                                <div>15.3 kB</div>
+                                <div>40.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3593,7 +3593,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2022, 23:14:50 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 00:12:01 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
