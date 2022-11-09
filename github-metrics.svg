@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2094 Commits
+                            2097 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    124k added, 12.2k removed
+                                    134k added, 15.2k removed
                                 </div>
                             </section>
                             <section>
@@ -239,7 +239,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.37mb of code in 1956 edited files across 1139 commits</small>
+                <small>estimation from 3.37mb of code in 1958 edited files across 1142 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -367,21 +367,21 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M9.585.52a2.678 2.678 0 00-3.17 0l-.928.68a1.178 1.178 0 01-.518.215L3.83 1.59a2.678 2.678 0 00-2.24 2.24l-.175 1.14a1.178 1.178 0 01-.215.518l-.68.928a2.678 2.678 0 000 3.17l.68.928c.113.153.186.33.215.518l.175 1.138a2.678 2.678 0 002.24 2.24l1.138.175c.187.029.365.102.518.215l.928.68a2.678 2.678 0 003.17 0l.928-.68a1.17 1.17 0 01.518-.215l1.138-.175a2.678 2.678 0 002.241-2.241l.175-1.138c.029-.187.102-.365.215-.518l.68-.928a2.678 2.678 0 000-3.17l-.68-.928a1.179 1.179 0 01-.215-.518L14.41 3.83a2.678 2.678 0 00-2.24-2.24l-1.138-.175a1.179 1.179 0 01-.518-.215L9.585.52zM7.303 1.728c.415-.305.98-.305 1.394 0l.928.68c.348.256.752.423 1.18.489l1.136.174c.51.078.909.478.987.987l.174 1.137c.066.427.233.831.489 1.18l.68.927c.305.415.305.98 0 1.394l-.68.928a2.678 2.678 0 00-.489 1.18l-.174 1.136a1.178 1.178 0 01-.987.987l-1.137.174a2.678 2.678 0 00-1.18.489l-.927.68c-.415.305-.98.305-1.394 0l-.928-.68a2.678 2.678 0 00-1.18-.489l-1.136-.174a1.178 1.178 0 01-.987-.987l-.174-1.137a2.678 2.678 0 00-.489-1.18l-.68-.927a1.178 1.178 0 010-1.394l.68-.928c.256-.348.423-.752.489-1.18l.174-1.136c.078-.51.478-.909.987-.987l1.137-.174a2.678 2.678 0 001.18-.489l.927-.68zM11.28 6.78a.75.75 0 00-1.06-1.06L7 8.94 5.78 7.72a.75.75 0 00-1.06 1.06l1.75 1.75a.75.75 0 001.06 0l3.75-3.75z"/>
                         </svg>
-                        747 commits verified by GPG
+                        750 commits verified by GPG
                     </div>
                 </div>
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 61.3kb of code in 59 edited files across 133 commits over last 12 days</small>
+                <small>estimation from 61.3kb of code in 59 edited files across 136 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.32932986129563" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="219.32932986129563" y="0" width="165.60521514233585" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="384.93454500363146" y="0" width="75.06545499636853" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.278158720034" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="219.278158720034" y="0" width="165.64042594659722" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="384.91858466663126" y="0" width="75.08141533336877" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -393,9 +393,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>1.38k lines</div>
+                                <div>1.37k lines</div>
                                 <div>26.9 kB</div>
-                                <div>47.68%</div>
+                                <div>47.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -408,7 +408,7 @@
                             <small>
                                 <div>1.33k lines</div>
                                 <div>20.3 kB</div>
-                                <div>36%</div>
+                                <div>36.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -440,24 +440,16 @@
                         <span class="name">@Sabawyan</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="329 329"/>
-                            <text x="15" y="15" dominant-baseline="central">7</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="164.5 329"/>
+                            <text x="15" y="15" dominant-baseline="central">5</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                     </div>
-                    <div class="organization contribution a ">
+                    <div class="organization contribution  ">
                         <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAACXBIWXMAAAsTAAALEwEAmpwYAAARmUlEQVR4nO3WwZEDRwwEQbm5LsIamUIT9NBjHLhBs7mZQQMuAEzd/vMBeIF/0n8AwAaxA15B7IBXEDvgFcQOeAWxA15B7IBXEDvgFcQOeAWxA15B7IBXEDvgFcQOeAWxA15B7IBXEDvgFcQOeAWxA15B7IBXEDvgFcQOeAWxA15B7IBXEDvgFcQOeAWxA15B7IBXEDvgFcQOeAWxA15B7IBXEDvgFcQOeAWxA15B7Djm3+f3fhbM/8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEDrFjQzxMYsc9vuw44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO8SODfEwiR33+LLjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7BA7NsTDJHb8wpdd/Og9JDv6AfGbnwu/ndGJXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd3RXuz4fvGj731IfD+x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjHrHjiIdJ7LhH7DjiYRI77hE7jniYxI57xI4jHiax4x6x44iHSey4R+w44mESO+4RO454mMSOe8SOIx4mseMeseOIh0nsuEfsOOJhEjvuETuOeJjEjnvEjiMeJrHjF2IXP3oPyY5+QPzm58JvZ3RiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldwZLWxI++9yGtic9zanckdgVLWhM/+t6HtCY+z6ndkdgVLGlN/Oh7H9Ka+DyndkdiV7CkNfGj731Ia+LznNodiV3BktbEj773Ia2Jz3NqdyR2BUtaEz/63oe0Jj7Pqd2R2BUsaU386Hsf0pr4PKd2R2JXsKQ18aPvfUhr4vOc2h2JXcGS1sSPvvchrYnPc2p3JHYFS1oTP/reh7QmPs+p3ZHYFSxpTfzoex/Smvg8p3ZHYlewpDXxo+99SGvi85zaHYldftN+JvDyCXzELr6DF/4+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/+Zqr82XnHMXODTxv+Bcrdg5d7NzAI3Z/yfd8xQQ+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/+Zqr82XnHMXODTxv+Bcrdg5d7NzAI3Z/yfd8xQQ+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/+Zqr82XnHMXODTxv+Bcrdg5d7NzAI3Z/yfd8xQQ+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/+Zqr82XnHMXODTxv+Bcrdg5d7NzAI3Z/yfd8xQQ+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/+Zqr82XnHMXODTxv+Bcrdg5d7NzAI3Z/yfd8xQQ+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/+Zqr82XnHMXODTxv+Bcrdg5d7NzAI3Z/yfd8xQQ+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/+Zqr82XnHMXODTxv+Bcrdg5d7NzAI3Z/yfd8xQQ+vyU+T7/5mqvzZeccxc4NPG/4Fyt2Dl3s3MAjdn/J93zFBD6/JT5Pv/maq/Nl5xzFzg08b/gXK3YOXezcwCN2f8n3fMUEPr8lPk+/eeGXHUCQ2AGvIHbAK4gd8ApiB7yC2AGvIHbAK4gd8ApiB7yC2AGvIHbAK4gd8ApiB7yC2AGvIHbAK4gd8ApiB7yC2AGvIHbAK4gd8ApiB7yC2AGvIHbAK4gd8ApiB7yC2AGvIHbAK4gd8ApiB7yC2AGvIHbAK4gd8ApiB7yC2AGfN/gPz7XHAtprbcYAAAAASUVORK5CYII=" width="16" height="16" />
                         <span class="name">@Isolated7798</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
-                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="285.7105263157895 329"/>
-                            <text x="15" y="15" dominant-baseline="central">17</text>
-                        </svg>
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                        </svg>
                     </div>
                 </div>
             </section>
@@ -586,12 +578,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 133 commits)</small>
+                    <small class="h-details">(computed from last 136 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.0 characters per line of code written</li>
+                        <li>Has approximately 38.9 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -662,8 +654,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 2.380952380952381px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 9.523809523809524px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -729,37 +721,37 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">25</span>
-                                <div class="bar" style="height: 30.48780487804878px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.40909090909091px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">30</span>
-                                <div class="bar" style="height: 36.58536585365854px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 34.090909090909086px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">27</span>
-                                <div class="bar" style="height: 32.926829268292686px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 30.681818181818183px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">41</span>
+                                <span class="value">44</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">3</span>
-                                <div class="bar" style="height: 3.6585365853658534px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.4090909090909087px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 1.2195121951219512px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 1.1363636363636365px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">6</span>
-                                <div class="bar" style="height: 7.317073170731707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.8181818181818175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -769,17 +761,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 35.271917179923996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 35.07827645190193%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">44%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 26.632158301664262%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 26.48594933615704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 11.630192635303366%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.005538812413457%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">15%</span>
                             </div>
                         </div>
@@ -2846,6 +2838,66 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#2043a06</div>
+                                        <div class="message">task 4</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MubarekSD/alx-low_level_programming</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2a6649d</div>
+                                        <div class="message">task 3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MubarekSD/alx-low_level_programming</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d668fef</div>
+                                        <div class="message">task 3</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">MubarekSD/alx-low_level_programming</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#53f889d</div>
                                         <div class="message">task 2</div>
                                     </div>
@@ -2872,66 +2924,6 @@
                                     <div class="commit">
                                         <div class="sha">#de45f61</div>
                                         <div class="message">task 0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MubarekSD/AirBnB_clone</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d9ec397</div>
-                                        <div class="message">complete</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MubarekSD/AirBnB_clone</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#92d8f27</div>
-                                        <div class="message">complete</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">MubarekSD/AirBnB_clone</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4feb319</div>
-                                        <div class="message">task 5</div>
                                     </div>
                                 </div>
                             </section>
@@ -3671,7 +3663,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2022, 11:17:35 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Nov 2022, 12:12:31 (timezone Africa/Addis_Ababa) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
