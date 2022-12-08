@@ -1,9 +1,0 @@
-#+CAPTION: Metrics
-#+NAME:   fig:SED-HR4049
-#+begin_center
-[[./github-metrics.svg]]
-#+end_center
-
-* License
-
-#+html: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
