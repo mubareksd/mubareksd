@@ -1,6 +1,6 @@
 #+CAPTION: Metrics
 #+NAME:   fig:SED-HR4049
-#+ATTR_HTML: :width 100%
+#+ATTR_HTML: :width 400px :center t
 [[./github-metrics.svg]]
 
 * License
