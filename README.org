@@ -1,4 +1,4 @@
-#+html: <p align="center"><a name="MubarekSD metrics"><img src="./github-metrics.svg" alt="my metrics created with lowlighter/metrics"></a></p>
+#+html: <p align="center" style="width: 100%; height: auto;"><a name="MubarekSD metrics"><img src="./github-metrics.svg" alt="my metrics created with lowlighter/metrics"></a></p>
 
 
 * License
