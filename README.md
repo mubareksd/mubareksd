@@ -1,5 +1,5 @@
 <div>
-  <img src="./github-metrics.svg" alt="MubarekSD metrics" />
+  <a><img src="./github-metrics.svg" alt="MubarekSD metrics" /></a>
 </div>
 
 ## License
