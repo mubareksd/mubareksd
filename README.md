@@ -1,4 +1,6 @@
-[[./github-metrics.svg]]
+<div>
+  <img src="./github-metrics.svg" alt="MubarekSD metrics" />
+</div>
 
 ## License
 
