@@ -28,7 +28,7 @@ jobs:
           # Options
           user: mubareksd
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_display: columns
           config_order: base
           config_timezone: Africa/Addis_Ababa
