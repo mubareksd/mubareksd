@@ -28,9 +28,7 @@ jobs:
           # Options
           user: mubareksd
           template: classic
-          base: header
-          config_display: columns
-          config_order: base
+          base: header, activity, community, repositories, metadata
           config_timezone: Africa/Addis_Ababa
           plugin_achievements: yes
           plugin_achievements_display: detailed
