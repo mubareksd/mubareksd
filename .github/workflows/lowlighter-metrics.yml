@@ -76,7 +76,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_types: commit
           plugin_repositories: yes
-          plugin_repositories_featured: mubareksd.github.io
+          plugin_repositories_featured: dotfiles ,mubareksd.github.io
           plugin_topics: yes
           plugin_topics_limit: 30
           plugin_topics_mode: icons
