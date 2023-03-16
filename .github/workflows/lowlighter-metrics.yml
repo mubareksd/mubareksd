@@ -42,6 +42,10 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
