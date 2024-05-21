@@ -1,1 +1,1 @@
-# Mubarek Seid Juhar
+# Mubarek Juhar
